@@ -27,7 +27,7 @@ Using the Provide CLI, you can easily setup a secure vault instance to secure yo
 
 If you have not previously created a Provide user, first create one:
 
-prvd users create
+'''prvd users create'''
 Next, authenticate using those credentials and create a vault and Ed25519 key:
 
 prvd authenticate
