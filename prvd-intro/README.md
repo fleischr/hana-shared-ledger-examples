@@ -52,7 +52,7 @@ prvd api_tokens init --organization <org uuid> --offline-access
 
 You can also choose basic auth credentials instead
 
-## Integrating to BTP applications
+## Integrating to SAP BTP applications
 
 - Add destinations to your BTP subaccount/SaaS application for your deployed instance to the Provide APIs
 - Replace usage of .env vars and code for public/private keys with PRVD user and Vault
