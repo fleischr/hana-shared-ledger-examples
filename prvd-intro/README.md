@@ -12,6 +12,9 @@ The Provide Platform comprises of five open source API microservices and the Shu
 <b>Shuttle low-code designer</b>
 https://shuttle.provide.services
 
+<b>PRVD CLI download</b>
+add gh link here
+
 ## Getting Started with API credentials
 
 ### Shuttle
@@ -34,7 +37,7 @@ prvd authenticate
 prvd vaults init --name 'SAP BTP Shared Ledger Vault'
 prvd vaults keys init
 
-# follow the prompts; control-c to bypass selecting an application and organization
+follow the prompts; control-c to bypass selecting an application and organization
 
 ✔ asymmetric
 ✔ sign/verify
@@ -51,10 +54,10 @@ You can also choose basic auth credentials instead
 
 ## Integrating to BTP applications
 
--[ ] Add destinations to your BTP subaccount/SaaS application for your deployed instance to the Provide APIs
+- Add destinations to your BTP subaccount/SaaS application for your deployed instance to the Provide APIs
 - Replace usage of .env vars and code for public/private keys with PRVD user and Vault
--[ ] Use Provide Vault to create, manage, sign, verify the private/public keys you will use to integrate to the SAP BTP Shared Ledger
--[ ] Experiment with the use of Nchain, Axiom, Privacy and other Provide apps like ProvideSync, the Carbonmark API, and Provide Payments with the SAP Business Blockchain Connector, Shared Ledger and other SAP BTP Blockchain apps. Have fun!
+- Use Provide Vault to create, manage, sign, verify the private/public keys you will use to integrate to the SAP BTP Shared Ledger
+- Experiment with the use of Nchain, Axiom, Privacy and other Provide apps like ProvideSync, the Carbonmark API, and Provide Payments with the SAP Business Blockchain Connector, Shared Ledger and other SAP BTP Blockchain apps. Have fun!
 
 ## Benefits
 
