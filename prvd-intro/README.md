@@ -3,11 +3,11 @@
 The Provide Platform comprises of five open source API microservices and the Shuttle low-code designer. You can also interact with the APIs via the PRVD cli
 
 <b>API Microservices</b>
-Ident
-Vault
-Nchain
-Axiom
-Privacy
+- Ident
+- Vault
+- Nchain
+- Axiom
+- Privacy
 
 <b>Shuttle low-code designer</b>
 https://shuttle.provide.services
